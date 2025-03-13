@@ -48,7 +48,7 @@ ORDER BY Matches_Played DESC;
 ```
 
 ## How to Use
-1. **Load the database** into SQLite using DBeaver or Colab.
+1. **Load the database** into SQLite using Colab.
 2. **Run SQL queries** to explore player stats and match analytics.
 3. **Modify or extend** the dataset for additional analysis.
 
